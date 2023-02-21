@@ -1,0 +1,11 @@
+C:\Users\s79na\source\repos\DemoWindowsFormsApp\DemoWindowsFormsApp\bin\Debug\DemoWindowsFormsApp.exe.config
+C:\Users\s79na\source\repos\DemoWindowsFormsApp\DemoWindowsFormsApp\bin\Debug\DemoWindowsFormsApp.exe
+C:\Users\s79na\source\repos\DemoWindowsFormsApp\DemoWindowsFormsApp\bin\Debug\DemoWindowsFormsApp.pdb
+C:\Users\s79na\source\repos\DemoWindowsFormsApp\DemoWindowsFormsApp\obj\Debug\DemoWindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\s79na\source\repos\DemoWindowsFormsApp\DemoWindowsFormsApp\obj\Debug\DemoWindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\s79na\source\repos\DemoWindowsFormsApp\DemoWindowsFormsApp\obj\Debug\DemoWindowsFormsApp.Form1.resources
+C:\Users\s79na\source\repos\DemoWindowsFormsApp\DemoWindowsFormsApp\obj\Debug\DemoWindowsFormsApp.Properties.Resources.resources
+C:\Users\s79na\source\repos\DemoWindowsFormsApp\DemoWindowsFormsApp\obj\Debug\DemoWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\s79na\source\repos\DemoWindowsFormsApp\DemoWindowsFormsApp\obj\Debug\DemoWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\s79na\source\repos\DemoWindowsFormsApp\DemoWindowsFormsApp\obj\Debug\DemoWindowsFormsApp.exe
+C:\Users\s79na\source\repos\DemoWindowsFormsApp\DemoWindowsFormsApp\obj\Debug\DemoWindowsFormsApp.pdb
